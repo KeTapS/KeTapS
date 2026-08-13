@@ -47,7 +47,11 @@ incluidos, no solo el `localhost:3000`.
 
 **Backend y datos**
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,postgres,nodejs&theme=dark" alt="Python, FastAPI, Supabase, PostgreSQL, Node.js" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,mysql,supabase&theme=dark" alt="Python, FastAPI, Node.js, PostgreSQL, MySQL, Supabase" />
+
+**Multiplataforma**
+
+<img src="https://skillicons.dev/icons?i=java,kotlin,cs,dotnet,androidstudio&theme=dark" alt="Java, Kotlin, C#, .NET, Android Studio" />
 
 **Infraestructura y herramientas**
 
