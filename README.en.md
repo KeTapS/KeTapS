@@ -7,7 +7,7 @@
 
 <br /><br />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=D4A548&center=true&vCenter=true&width=680&lines=Multiplatform+Application+Development+graduate;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+Supabase+%C2%B7+PostgreSQL;Available+for+freelance+work" alt="" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=D4A548&center=true&vCenter=true&width=600&lines=Multiplatform+App+Development+graduate;React+%C2%B7+Next.js+%C2%B7+TypeScript+%C2%B7+Tailwind;Python+%C2%B7+FastAPI+%C2%B7+Supabase+%C2%B7+PostgreSQL;Available+for+freelance+work" alt="" />
 
 <br />
 
@@ -107,8 +107,7 @@ from the admin panel.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=KeTapS&show_icons=true&include_all_commits=true&hide_border=true&title_color=D4A548&icon_color=D4A548&text_color=c9d1d9&bg_color=0d1117" alt="" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeTapS&layout=compact&langs_count=8&hide_border=true&title_color=D4A548&text_color=c9d1d9&bg_color=0d1117" alt="" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KeTapS&bg_color=0d1117&color=D4A548&line=D4A548&point=ffffff&area=true&area_color=8B6914&hide_border=true&custom_title=Contribution%20activity" alt="" />
 
 <br /><br />
 
