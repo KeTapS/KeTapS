@@ -84,22 +84,24 @@ form service.
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ La Riviera — POS & Digital Menu
+### 🍽️ La Riviera — Swimming-pool bar
 
-<div align="center">
-<img src="https://img.shields.io/badge/In_production-2E7D32?style=for-the-badge" alt="In production" />
-<br /><br />
-</div>
+<a href="https://xn--piscinasanchonuo-lub.es/">
+<img src="https://raw.githubusercontent.com/KeTapS/KeTapS/main/docs/la-riviera.webp" alt="La Riviera" />
+</a>
 
-Real-time point-of-sale and digital menu system for restaurants, currently
-running in a real venue. Final degree project.
+A full system for the bar and restaurant at the municipal swimming pools of
+Sanchonuño: a public site with digital menu, events, bookings and a customer
+area, plus an **internal POS** for the staff.
 
-Orders synced between floor and kitchen, table management and a menu editable
-from the admin panel.
+Orders travel from the bar to the kitchen in real time. It started as my final
+degree project and ended up running a business's till.
 
 `React` `Tailwind` `Supabase` `Realtime`
 
-*Source code public from September 2026*
+[**Visit site**](https://xn--piscinasanchonuo-lub.es/)
+
+*The POS is internal and the repository is private.*
 
 </td>
 </tr>

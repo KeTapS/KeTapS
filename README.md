@@ -84,22 +84,24 @@ Cloudflare, sin backend ni servicios de formularios de terceros.
 </td>
 <td width="50%" valign="top">
 
-### 🍽️ La Riviera — TPV y Carta Digital
+### 🍽️ La Riviera — Bar de las piscinas
 
-<div align="center">
-<img src="https://img.shields.io/badge/En_producción-2E7D32?style=for-the-badge" alt="En producción" />
-<br /><br />
-</div>
+<a href="https://xn--piscinasanchonuo-lub.es/">
+<img src="https://raw.githubusercontent.com/KeTapS/KeTapS/main/docs/la-riviera.webp" alt="La Riviera" />
+</a>
 
-Sistema integral de TPV y carta digital en tiempo real para hostelería,
-en uso real en un restaurante. Proyecto de fin de grado.
+Sistema completo para el bar-restaurante de las piscinas municipales de
+Sanchonuño: web pública con carta digital, eventos, reservas y área de
+cliente, más un **TPV interno** para el personal.
 
-Pedidos sincronizados entre sala y cocina, gestión de mesas y carta
-editable desde el panel.
+Las comandas viajan de la barra a la cocina en tiempo real. Empezó como
+proyecto de fin de grado y acabó llevando la caja de un negocio.
 
 `React` `Tailwind` `Supabase` `Realtime`
 
-*Código público a partir de septiembre de 2026*
+[**Ver web**](https://xn--piscinasanchonuo-lub.es/)
+
+*El TPV es interno y el repositorio, privado.*
 
 </td>
 </tr>
